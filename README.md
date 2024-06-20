@@ -1,0 +1,3 @@
+![image](https://github.com/zaka6423/ucse-prog2-2023-U2-Apoca/assets/121575107/cf7d6b46-8569-494a-a0de-49c37ea16ff3)
+![image](https://github.com/zaka6423/ucse-prog2-2023-U2-Apoca/assets/121575107/ff9de5ec-002d-4891-9262-a327c902a490)
+En este caso podemos observar, que la implementación paralela supera ampliamente a la implementación concurrente en rendimiento. Sin embargo, la tasa de errores de la concurrencia es mucho menor que la del paralelismo, por lo que podemos deducir que la concurrencia demora más, pero es más confiable, a diferencia del paralelismo que es mucho más rápido pero menos confiable.
